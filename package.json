@@ -1,6 +1,6 @@
 {
     "name": "@gaming_frame/musicapi",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Makes connecting to the Music API by Cato Studios very easy!",
     "license": "MIT",
     "repository": "ThomasBeHappy/NodeMusicAPI",

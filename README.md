@@ -1,10 +1,10 @@
 # @gaming_frame/musicapi
-[![npm (scoped)](https://img.shields.io/npm/v/@gaming_frame/musicapi)](https://github.com/ThomasBeHappy/NodeMusicAPI)
-[![npm](https://img.shields.io/npm/dw/@gaming_frame/musicapi)](https://github.com/ThomasBeHappy/NodeMusicAPI)
-[![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@gaming_frame/musicapi)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@gaming_frame/musicapi)](https://www.npmjs.com/package/@gaming_frame/musicapi)
+[![npm](https://img.shields.io/npm/dw/@gaming_frame/musicapi)](https://www.npmjs.com/package/@gaming_frame/musicapi)
+[![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@gaming_frame/musicapi)](https://www.npmjs.com/package/@gaming_frame/musicapi)
 
 
-A npm package for the Music API from Cato Studios
+A npm package for the [Music API](https://music.catostudios.nl/) from Cato Studios
 
 ## Install
 
@@ -60,14 +60,14 @@ async function doStuff() {
     /*
     message: 'Successfully added music video',
     data: {
-    title: 'example',
-    url: 'https://www.youtube.com/watch/dQw4w9WgXcQ',
-    genre: 'edm',
-    author: 'the author',
-    updated_at: '2021-08-10T11:28:23.000000Z',
-    created_at: '2021-08-10T11:28:23.000000Z',
-    id: 666
-  } */
+        title: 'example',
+        url: 'https://www.youtube.com/watch/dQw4w9WgXcQ',
+        genre: 'edm',
+        author: 'the author',
+        updated_at: '2021-08-10T11:28:23.000000Z',
+        created_at: '2021-08-10T11:28:23.000000Z',
+        id: 666
+     } */
 }
 
 ```
